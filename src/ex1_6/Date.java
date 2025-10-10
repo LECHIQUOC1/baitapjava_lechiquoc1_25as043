@@ -1,3 +1,5 @@
+package ex1_6;
+
 public class Date {
     private int day;
     private int month;

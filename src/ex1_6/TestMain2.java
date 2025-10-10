@@ -1,3 +1,5 @@
+package ex1_6;
+
 public class TestMain2 {
     public static void main(String[] args) {
         Date d1 = new Date(1, 2, 2014);

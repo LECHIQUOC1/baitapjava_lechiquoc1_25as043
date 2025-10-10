@@ -1,3 +1,5 @@
+import ex1_5.account;
+
 public static void main(String[] args) {
     account acc1 = new account("A001", "Alice", 500);
     account acc2 = new account("A002", "Bob", 300);
